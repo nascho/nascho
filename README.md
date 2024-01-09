@@ -1,5 +1,5 @@
 ## Hi, my name is Nas Choudhury
-<h1 class="center">Hello</h1>
+<h1 align="center">Hello</h1>
 
 <!--
 **nascho/nascho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
