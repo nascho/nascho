@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi, my name is Nas Choudhury</h1>
 <h3 align="center">I'm a Web Developer based in London</h3>
-<p align="center">I can be contacted via the LinkedIn or X links on my GitHub profile.</p>
+<p align="center">Please contact me via the LinkedIn or X links on my GitHub profile.</p>
 <hr>
 
 <h3>Overview:</h3>
@@ -45,6 +45,10 @@
 
 <hr>
 
+<h3>Projects:</h3>
+• Tech used: <b>Python</b> and <b>WagtailCMS</b> -
+<br>
+My first experience of web development was as a result of doing my brother a favour during the Covid lockdowns. It involved me learning HTML, CSS, BootStrap, Python and WagtailCMS and using wireframes provided creating the front-end for <a href="https://www.personcentreduniverse.com" target="_blank">Person Centred Universe</a>.
 
 
 
