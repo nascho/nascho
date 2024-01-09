@@ -18,6 +18,33 @@
 <a href="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="80" height="80" style="max-width: 100%;"></a>
 &nbsp
+<a href="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="80" height="80" style="max-width: 100%;"></a>
+&nbsp
+<a href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="80" height="80" style="max-width: 100%;"></a>
+&nbsp
+<a href="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="ReactJS" alt="ReactJS" width="80" height="80" style="max-width: 100%;"></a>
+&nbsp
+<a href="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="80" height="80" style="max-width: 100%;"></a>
+&nbsp
+<a href="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="80" height="80" style="max-width: 100%;"></a>
+&nbsp
+<a href="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="80" height="80" style="max-width: 100%;"></a>
+&nbsp
+<a href="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="80" height="80" style="max-width: 100%;"></a>
+&nbsp
+<a href="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="80" height="80" style="max-width: 100%;"></a>
+&nbsp
+
+<hr>
+
 
 
 
