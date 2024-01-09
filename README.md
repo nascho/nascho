@@ -1,5 +1,9 @@
-## Hi, my name is Nas Choudhury
-<h1 align="center">Hello</h1>
+
+<h1 align="center">Hi, my name is Nas Choudhury</h1>
+<h3 align="center">I'm a web developer based in London</h3>
+<br>
+<p align="center">I can be contacted via the LinkedIn or X links on my GitHub profile.</p>
+<hr>
 
 <!--
 **nascho/nascho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
