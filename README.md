@@ -7,7 +7,7 @@
 <hr>
 
 <h3>Overview:</h3>
-• Currently improving my Web Development skills at <a target="_blank" href="https://www.foundersandcoders.com/">Founders & Coders</a> - in cohort FAC30A. <br>
+• Currently improving my Web Development skills at <a href="https://www.foundersandcoders.com" target="_blank">Founders & Coders</a> - in cohort FAC30A. <br>
 • I have some commercial experience, please see projects section. <br>
 • I am also a London Black Cab Driver.
 
