@@ -13,6 +13,15 @@
 
 <hr>
 
+<h3>Languages and Tools:</h3>
+
+<a href="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="80" height="80" style="max-width: 100%;"></a>
+&nbsp
+
+
+
+
 
 <!--
 **nascho/nascho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
