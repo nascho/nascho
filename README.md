@@ -1,4 +1,6 @@
-<img src="https://unsplash.com/photos/slightly-opened-silver-macbook-mP7aPSUm7aE">
+<div align="center">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Image of laptop being used" width="200">
+</div>
 <h1 align="center">Hi, my name is Nas Choudhury</h1>
 <h3 align="center">I'm a Web Developer based in London</h3>
 <p align="center">I can be contacted via the LinkedIn or X links on my GitHub profile.</p>
