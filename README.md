@@ -27,9 +27,9 @@
 <a href="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="ReactJS" alt="ReactJS" width="80" height="80" style="max-width: 100%;"></a>
 &nbsp
-<a href="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" target="_blank">
+<!-- <a href="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="80" height="80" style="max-width: 100%;"></a>
-&nbsp
+&nbsp -->
 <a href="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="80" height="80" style="max-width: 100%;"></a>
 &nbsp
