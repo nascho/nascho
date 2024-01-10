@@ -48,7 +48,7 @@
 <h3>Projects:</h3>
 • Tech used: <b>Python</b> and <b>WagtailCMS</b> -
 <br>
-My first experience of web development was as a result of doing my brother a favour during the Covid lockdowns. It involved me learning HTML, CSS, BootStrap, Python and WagtailCMS and using wireframes provided creating the front-end for <a href="https://www.personcentreduniverse.com" target="_blank">Person Centred Universe</a>.
+My first experience of web development was as a result of doing a favour for someone during the Covid lockdowns. It involved me learning HTML, CSS, BootStrap, Python and WagtailCMS and using wireframes provided creating the front-end for <a href="https://www.personcentreduniverse.com" target="_blank">Person Centred Universe</a>.
 
 
 
