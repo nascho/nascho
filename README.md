@@ -1,7 +1,7 @@
 <h1 align="center">Hi, my name is Nas.</h1>
 <h3 align="center">I'm a Web Developer based in London</h3>
 <p align="center">Please contact me via the LinkedIn or X links on my GitHub profile.</p>
-<hr>
+
 
 <h3>Overview:</h3>
 • Currently improving my Web Development skills at <a href="https://www.foundersandcoders.com" target="_blank">Founders & Coders</a> - in cohort FAC30A. <br>
