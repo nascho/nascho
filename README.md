@@ -11,6 +11,12 @@
 <a href="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="80" height="80" style="max-width: 100%;"></a>
 &nbsp
+<a href="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="BootStrap" alt="BootStrap" width="80" height="80" style="max-width: 100%;"></a>
+&nbsp
+<a href="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="80" height="80" style="max-width: 100%;"></a>
+&nbsp
 <a href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="80" height="80" style="max-width: 100%;"></a>
 &nbsp
