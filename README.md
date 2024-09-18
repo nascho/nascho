@@ -5,6 +5,7 @@
 
 <h3>Languages and Tools:</h3>
 
+<div align=center">
 <a href="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="80" height="80" style="max-width: 100%;"></a>
 &nbsp
@@ -44,6 +45,9 @@
 <a href="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="80" height="80" style="max-width: 100%;"></a>
 &nbsp
+</div>
+
+
 <!--
 <hr>
 
