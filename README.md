@@ -36,6 +36,9 @@
 <a href="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="80" height="80" style="max-width: 100%;"></a>
 &nbsp
+<!-- creating some spacing -->
+<br>
+<br>
 <a href="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="80" height="80" style="max-width: 100%;"></a>
 &nbsp
