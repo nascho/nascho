@@ -14,6 +14,9 @@
 <a href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="80" height="80" style="max-width: 100%;"></a>
 &nbsp
+<a href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="80" height="80" style="max-width: 100%;"></a>
+&nbsp
 <a href="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="ReactJS" alt="ReactJS" width="80" height="80" style="max-width: 100%;"></a>
 &nbsp
