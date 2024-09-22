@@ -20,7 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="80" height="80" style="max-width: 100%;"></a>
 &nbsp
 <a href="#"  style="pointer-events: none;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="80" height="80" style="max-width: 100%;"></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="80" height="80" style="max-width: 100%;"></a>
 &nbsp
 <a href="#"  style="pointer-events: none;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="80" height="80" style="max-width: 100%;"></a>
@@ -39,7 +39,7 @@
 <br>
 <br>
 <a href="#"  style="pointer-events: none;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="80" height="80" style="max-width: 100%;"></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest Testing Framework" alt="Jest" width="80" height="80" style="max-width: 100%;"></a>
 &nbsp
 <a href="#"  style="pointer-events: none;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="80" height="80" style="max-width: 100%;"></a>
@@ -48,10 +48,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="80" height="80" style="max-width: 100%;"></a>
 &nbsp
 <a href="#"  style="pointer-events: none;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="80" height="80" style="max-width: 100%;"></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Services" alt="AWS" width="80" height="80" style="max-width: 100%;"></a>
 &nbsp
 <a href="#"  style="pointer-events: none;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="80" height="80" style="max-width: 100%;"></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="GIT" alt="Git" width="80" height="80" style="max-width: 100%;"></a>
 &nbsp
 <a href="#"  style="pointer-events: none;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="80" height="80" style="max-width: 100%;"></a>
