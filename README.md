@@ -1,5 +1,5 @@
 <h1 align="center">Hi, my name is Nas.</h1>
-<h3 align="center">I'm a Cloud Engineer based in London</h3>
+<h3 align="center">I'm a Cloud Engineer based in London.</h3>
 <p align="center">Please contact me via LinkedIn on my GitHub profile.</p>
 <hr>
 
