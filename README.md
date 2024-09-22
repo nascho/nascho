@@ -53,7 +53,7 @@
 <a href="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="80" height="80" style="max-width: 100%;"></a>
 &nbsp
-<a href="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" target="_blank">
+<a href="" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="80" height="80" style="max-width: 100%;"></a>
 &nbsp
 </div>
