@@ -39,6 +39,9 @@
 <br>
 <br>
 <a href="#"  style="pointer-events: none;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="80" height="80" style="max-width: 100%;"></a>
+&nbsp
+<a href="#"  style="pointer-events: none;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="80" height="80" style="max-width: 100%;"></a>
 &nbsp
 <a href="#"  style="pointer-events: none;">
